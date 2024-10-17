@@ -44,3 +44,6 @@ graph LR
     A --> C[Programação Assistida]
     B --> D[Publicação de Ebooks]
     C --> D
+
+## Como Contribuir
+Sinta-se à vontade para contribuir com sugestões, melhorias ou correções. Basta abrir uma issue ou criar um pull request.
